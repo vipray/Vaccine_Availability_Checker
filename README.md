@@ -1,5 +1,5 @@
 # Availability Check Script on Cowin India
-##  
+## DO NOT USE THIS WITHOUT EXTREAM NEED. 
 ###### Its a browser console script which will notify you with a notification if there is any availability. 
 
 ###### Steps
