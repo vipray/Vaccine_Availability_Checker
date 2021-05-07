@@ -22,7 +22,8 @@ var myInterval = setInterval(function(){
 			}
 		}
     //refresh the availability div
-	g.click();	
+	g.click();
+	document.getElementById('flexRadioDefault2').click()
     }
 	catch(err){
         //if something goes wrong
